@@ -130,6 +130,7 @@ enum TWCoinType {
     TWCoinTypeNativeInjective = 10000060,
     TWCoinTypeAgoric = 564,
     TWCoinTypeTON = 607,
+    TWCoinTypePOM = 10018159,
 };
 
 /// Returns the blockchain for a coin type.
