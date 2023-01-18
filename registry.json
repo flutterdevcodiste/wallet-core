@@ -3001,9 +3001,10 @@
     "id": "pom",
     "name": "POM",
     "coinId": 10018159,
+    "slip44": 60,
     "symbol": "POM",
     "decimals": 18,
-    "blockchain": "Proof Of Memes",
+    "blockchain": "Ethereum",
     "derivation": [
       {
         "path": "m/44'/60'/0'/0/0"
